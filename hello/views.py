@@ -2,4 +2,4 @@ from django.http import HttpResponse
 from django.shortcuts import render
 
 def hello(request):
-    return HttpResponse(" this is azure web services demo........")
+    return HttpResponse(" Hello World!!......")
